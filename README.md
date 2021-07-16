@@ -15,3 +15,10 @@ The application is divided into 4 parts. We worked using an Arduino UNO developm
 
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
+
+Details:
+------------------------------------------
+
+Visual Studio, Visual Code, the Microsoft Office Excel package were used as development environments.
+Programming language: C#
+Technology used for the interface: Windows Forms.
