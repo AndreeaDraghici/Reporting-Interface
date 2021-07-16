@@ -24,3 +24,7 @@ Visual Studio, Visual Code, the Microsoft Office Excel package were used as deve
 Programming language: C#
 
 Technology used for the interface: Windows Forms.
+
+---------------------------------------------------------
+!! Read the pdf entitled Challange.pdf and Online Internship - Software Project.pdf for more explanatory details !!
+----------------------------------------------------------
